@@ -25,9 +25,9 @@ This is a GitHub Pages-ready static website for QianYang Furniture / QY Office F
 
 ## Before launch
 
-1. Replace placeholder contact details in `assets/js/site.js`:
-   - `CONTACT.email`
-   - `CONTACT.whatsappNumber`
+1. Sales contact details are configured in `assets/js/site.js`:
+   - Email: `xuc570033@gmail.com`
+   - WhatsApp: `+86 137 8657 0828` (`8613786570828` for wa.me links)
 2. Replace SVG placeholder images with real product, factory, packing and project photos.
 3. Replace the starter PDF catalog with your final PDF.
 4. Verify the Alibaba Store button points to: https://qyofficefurniture.en.alibaba.com

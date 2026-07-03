@@ -1,9 +1,9 @@
 const ALIBABA_STORE = "https://qyofficefurniture.en.alibaba.com";
 
-// Replace these placeholders with the real sales email and WhatsApp number before public promotion.
+// Sales contact details used by inquiry and WhatsApp actions.
 const CONTACT = {
-  email: "sales@qianyang-furniture.com",
-  whatsappNumber: "8613800000000"
+  email: "xuc570033@gmail.com",
+  whatsappNumber: "8613786570828"
 };
 
 const PRODUCTS = [
@@ -725,7 +725,7 @@ function inquirySection(title = 'Send your project requirement', productName = '
           <div>
             <span class="eyebrow" style="color:#d8b16a">Request Quotation</span>
             <h2 style="font-size:42px;line-height:1.05;margin:12px 0">${title}</h2>
-            <p>For faster quotation, please provide product size, quantity, destination country and reference photos. Static GitHub Pages forms open your email app; replace the contact settings in assets/js/site.js before launch.</p>
+            <p>For faster quotation, please provide product size, quantity, destination country and reference photos. Submit the form to open a pre-filled email to our sales team, or contact us directly by WhatsApp for a faster response.</p>
           </div>
           <form class="inquiry-form">
             <div class="form-grid">
